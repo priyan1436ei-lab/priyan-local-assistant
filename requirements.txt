@@ -1,0 +1,2 @@
+# Embedded native inference. Windows installer uses the official prebuilt CPU index.
+llama-cpp-python>=0.3,<0.4
